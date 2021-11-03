@@ -1,0 +1,9 @@
+
+これらは入ってません、別途入手してください
+
+BouncyCastle.Crypto.dll
+Common.Logging.Core.dll
+Common.Logging.dll
+itext.io.dll
+itext.kernel.dll
+
